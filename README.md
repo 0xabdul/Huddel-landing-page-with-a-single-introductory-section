@@ -4,8 +4,8 @@ This is a solution to the [Huddle landing page with single introductory section 
 ## Preview<br>
 ## Links &#128269;
 <ul>
-<li>Live Site URL: <a href="https://0xabdul.github.io/Huddel-landing-page-with-a-single-introductory-section/">Click Here</a></li><br>
-<li>Solution URL: <a href="https://www.frontendmentor.io/solutions/huddellandingpagewithasingleintroductorysection-oVdP_gjgSj">Click Here</a></li>
+<li>Live Site URL: <a href="">Click Here</a></li><br>
+<li>Solution URL: <a href="">Click Here</a></li>
 </ul><br>
 
 ## Built with &#128295;
